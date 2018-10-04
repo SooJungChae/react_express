@@ -1,0 +1,8 @@
+{
+    "server": "218.236.58.92",
+    "port": "11456",
+    "user": "sa",
+    "password": "pdsdbsvr",
+    "database": "S2Std",
+    "instanceName": ""
+}
